@@ -1,0 +1,45 @@
+h1{
+text-align: center;
+color: #ffbd68;
+}
+
+p{
+    color:#ff1964;
+    background: #b8d6b0;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.estiloParrafo {
+    color:#8e407a;
+    background:#eee097;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+#parrafoUnico{
+    color: #ffbd68;
+    background: #e8608c;
+    text-align:right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+
+}
+
+h4{
+    color: #ffbd68;
+   
+}
+
+img {
+    width: 600px;
+    height: 350px;
+    
+}
+
+.centrado{
+    text-align: center;
+    
+  }
