@@ -1,0 +1,119 @@
+h3{
+    color: white;
+    padding: 0px 10px ;
+}
+
+/* Estilos de encabezado */
+.divcabezera{
+    background-color: gray;
+    border-radius: 6px;
+    padding: 0px 10px;
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+
+.divlogo{
+    background-color:blue;
+    padding:0 8px;
+}
+
+
+.divmenu1{
+    background-color:rgb(50, 155, 55);
+    padding: 0px 30px;
+    width: 200px;
+    height:25px;
+    
+}
+
+.divmenu2{
+    background-color:rgb(124, 51, 28);
+    padding:0 8px;
+    width: 300px;
+    height:25px;
+}
+
+
+/* Estilos Contenido */
+
+.div-modulo {
+    border-radius:5px;
+    width: 250px;
+    height:300px;
+    margin: 5px 10px 10px 0px;
+
+}
+
+.div-izquierda{
+    background-color: rgb(59, 59, 59);
+    
+}
+
+.div-centro{
+    background-color: rgb(109, 189, 175);
+
+}
+
+.div-derecha{
+    background-color: rgb(255, 196, 0);
+}
+
+.div-izquierda2{
+    background-color: rgb(59, 59, 59);
+    border-radius:5px;
+    width: 510px;
+    height:300px;
+    margin: 5px 5px 10px 0px;
+}
+
+.div-derecha2{
+    background-color: rgba(255, 80, 49, 0.63);
+
+}
+
+.divcontenido{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.divcontenido-superior{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.divcontenido-inferior{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+/* Estilos de Pie de pagina */
+
+.divpie{
+    background-color: #2adfffe1;
+    border-radius: 6px;
+    padding: 0px 10px;
+    height: 70px;
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+    
+}
+
+.divcontenido-pie{
+    background-color:#2f2f8b;
+    margin-top: 25px;
+    width:115px;
+    height:25px;
+    
+}
+
+.elemento-pie {
+    margin: 0px -5px;
+}
