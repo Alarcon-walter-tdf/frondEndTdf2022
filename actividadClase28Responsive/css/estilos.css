@@ -1,0 +1,27 @@
+.div-modulo {
+    height:300px;
+}
+
+.div-izquierda{
+    background-color: rgb(59, 59, 59);
+    
+}
+
+.div-centro{
+    background-color: rgb(109, 189, 175);
+
+}
+
+.div-derecha{
+    background-color: rgb(255, 196, 0);
+}
+
+.div-izquierda2{
+    background-color: rgb(59, 59, 59);
+
+}
+
+.div-derecha2{
+    background-color: rgba(255, 80, 49, 0.63);
+
+}
